@@ -1,4 +1,6 @@
-# Store
+# Countlink Store
 
-**TODO: Add description**
+Simple Umbrella Elixir Store for e-commerce. 
+
+
 
